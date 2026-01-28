@@ -1,2 +1,2 @@
 # SourceTree
-This is line changed by b2
+Line changed with B1
